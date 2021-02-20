@@ -13,7 +13,6 @@
 ## 项目结构
 
 ```
-​```
 Semi-Siamese-Training
 │
 └───data_processor/ train_dataset.py/ ImageDataset_SST # 数据集加载格式
@@ -25,15 +24,14 @@ Semi-Siamese-Training
 └───training_mode/ semi-siamese_training/ train.py # 训练相关
 │   
 └───Not_fully_implemented # 官方非完整实现 对应的注释
-
 ```
 
 
 
 ## 浅层人脸学习vs深层人脸学习
 
- ![](/imgs/dataset.png)
+ <img src="Not_fully_implemented/imgs/dataset.png" style="zoom:50%;" />
 
 ## 基本框架
 
- ![](/imgs/frame.png)
+ <img src="Not_fully_implemented/imgs/frame.png" style="zoom:50%;" />

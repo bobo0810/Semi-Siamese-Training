@@ -10,9 +10,9 @@
 
 
 # 浅层人脸学习vs深层人脸学习
- ![](/imgs/dataset.png)
+ <img src="imgs/dataset.png" style="zoom: 50%;" />
 # 基本框架
- ![](/imgs/frame.png)
+ <img src="imgs/frame.png" style="zoom: 45%;" />
 
  # 参考
 [官方github](https://github.com/dituu/Semi-Siamese-Training)
